@@ -7,21 +7,21 @@
 	<key>AD_UNIT_ID_FOR_INTERSTITIAL_TEST</key>
 	<string>ca-app-pub-3940256099942544/4411468910</string>
 	<key>CLIENT_ID</key>
-	<string>696559403983-ej46skp4i8v8k04d4vo2cm42conjl57b.apps.googleusercontent.com</string>
+	<string>300905359368-rmdo83nso0qov2euu2qrn7jfom0enh7f.apps.googleusercontent.com</string>
 	<key>REVERSED_CLIENT_ID</key>
-	<string>com.googleusercontent.apps.696559403983-ej46skp4i8v8k04d4vo2cm42conjl57b</string>
+	<string>com.googleusercontent.apps.300905359368-rmdo83nso0qov2euu2qrn7jfom0enh7f</string>
 	<key>API_KEY</key>
-	<string>AIzaSyBRWdRcvedgvZodWL5Ue_XmT3GvfgXUiXA</string>
+	<string>AIzaSyDBrCb2YhSCVOfDoYKV3XdHbNnlwpHPKWw</string>
 	<key>GCM_SENDER_ID</key>
-	<string>696559403983</string>
+	<string>300905359368</string>
 	<key>PLIST_VERSION</key>
 	<string>1</string>
 	<key>BUNDLE_ID</key>
-	<string>be.fetesdewallonie.www</string>
+	<string>be.lukoilapp.www</string>
 	<key>PROJECT_ID</key>
-	<string>fetes-de-wallonie-6be64</string>
+	<string>lukoil-benelux</string>
 	<key>STORAGE_BUCKET</key>
-	<string>fetes-de-wallonie-6be64.appspot.com</string>
+	<string>lukoil-benelux.appspot.com</string>
 	<key>IS_ADS_ENABLED</key>
 	<true/>
 	<key>IS_ANALYTICS_ENABLED</key>
@@ -33,8 +33,8 @@
 	<key>IS_SIGNIN_ENABLED</key>
 	<true/>
 	<key>GOOGLE_APP_ID</key>
-	<string>1:696559403983:ios:d1e1dc8e684c40fb</string>
+	<string>1:300905359368:ios:c798a303bd675618</string>
 	<key>DATABASE_URL</key>
-	<string>https://fetes-de-wallonie-6be64.firebaseio.com</string>
+	<string>https://lukoil-benelux.firebaseio.com</string>
 </dict>
 </plist>
